@@ -11,3 +11,4 @@ class animales():
 perro = animales("Doki")
 print(perro.name)
 perro.test()
+#Prueba de programacion orientada a objetos
